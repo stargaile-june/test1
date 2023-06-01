@@ -7,4 +7,3 @@ class HelloWorld {
         System.out.println("Hello, Siva");		
     }
 }
-
